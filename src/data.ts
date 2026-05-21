@@ -22,7 +22,7 @@ export const TRAVEL_PACKAGES: TravelPackage[] = [
     price: 1299,
     originalPrice: 1599,
     rating: 4.8,
-    image: "/src/assets/images/kashmir_snow_shikara_1779356698710.png",
+    image: "https://images.unsplash.com/photo-1566837945700-30057527ade0?auto=format&fit=crop&q=80&w=800",
     tags: ["Nature", "Cultural heritage", "Premium Escape"],
     highlights: ["Luxury Houseboat in Dal Lake", "Gondola ride in Gulmarg", "Pristine Pahalgam valleys"],
     description: "Unravel Jammu and Kashmir's pristine alpine beauty. Glide in a handcrafted royal houseboat, traverse vibrant saffron fields, and take a dramatic skyward Gondola ride over snow-peaked passes."
@@ -74,7 +74,7 @@ export const TRAVEL_PACKAGES: TravelPackage[] = [
     price: 1599,
     originalPrice: 1999,
     rating: 4.95,
-    image: "/src/assets/images/madinah_dome_sunset_1779356715418.png",
+    image: "https://images.unsplash.com/photo-1591604466107-ec97de577aff?auto=format&fit=crop&q=80&w=800",
     tags: ["Spiritual", "Elite Accommodation", "Haram View"],
     highlights: ["5-Star Haram-facing suite", "Private VIP transport guide", "Historical Ziyarat sites tour"],
     description: "An elegant, completely-focused journey of faith. Live in full spiritual view of the Kaaba, supported by seamless airport fast-tracks and state-of-the-art chauffeurs."
@@ -139,7 +139,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-3",
     title: "Sunset over Sacred Spires",
     category: "Spiritual",
-    image: "/src/assets/images/sunset_spires_1779355579250.png",
+    image: "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&q=80&w=600",
     cols: 1
   },
   {
@@ -160,7 +160,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-6",
     title: "Dal Lake Shikara Morning",
     category: "Heritage",
-    image: "/src/assets/images/dal_lake_shikara_1779355600305.png",
+    image: "https://images.unsplash.com/photo-1548011985-c0ac6a6d5f24?auto=format&fit=crop&q=80&w=600",
     cols: 1
   }
 ];
