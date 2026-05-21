@@ -1,0 +1,6 @@
+{
+  "name": "Voyage Adventures LLP",
+  "description": "An premium travel agency portal for Voyage Adventures LLP in Tirur, Kerala, featuring interactive tour exploration, custom reviews, responsive bookings, and a live community travel photo sharing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
