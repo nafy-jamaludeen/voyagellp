@@ -22,7 +22,7 @@ export const TRAVEL_PACKAGES: TravelPackage[] = [
     price: 1299,
     originalPrice: 1599,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+    image: "/kashmir_snow_shikara_1779356698710.png",
     tags: ["Nature", "Cultural heritage", "Premium Escape"],
     highlights: ["Luxury Houseboat in Dal Lake", "Gondola ride in Gulmarg", "Pristine Pahalgam valleys"],
     description: "Unravel Jammu and Kashmir's pristine alpine beauty. Glide in a handcrafted royal houseboat, traverse vibrant saffron fields, and take a dramatic skyward Gondola ride over snow-peaked passes."
@@ -74,7 +74,7 @@ export const TRAVEL_PACKAGES: TravelPackage[] = [
     price: 1599,
     originalPrice: 1999,
     rating: 4.95,
-    image: "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&q=80&w=800",
+    image: "/madinah_dome_sunset_1779356715418.png",
     tags: ["Spiritual", "Elite Accommodation", "Haram View"],
     highlights: ["5-Star Haram-facing suite", "Private VIP transport guide", "Historical Ziyarat sites tour"],
     description: "An elegant, completely-focused journey of faith. Live in full spiritual view of the Kaaba, supported by seamless airport fast-tracks and state-of-the-art chauffeurs."
@@ -139,7 +139,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-3",
     title: "Sunset over Sacred Spires",
     category: "Spiritual",
-    image: "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&q=80&w=600",
+    image: "/sunset_spires_1779355579250.png",
     cols: 1
   },
   {
@@ -160,7 +160,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-6",
     title: "Dal Lake Shikara Morning",
     category: "Heritage",
-    image: "/src/assets/images/dal_lake_shikara_1779355600305.png",
+    image: "/dal_lake_shikara_1779355600305.png",
     cols: 1
   }
 ];
