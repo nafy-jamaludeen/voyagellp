@@ -160,7 +160,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-6",
     title: "Dal Lake Shikara Morning",
     category: "Heritage",
-    image: "https://images.unsplash.com/photo-1624461442456-b0a94e7ee814?auto=format&fit=crop&q=80&w=600",
+    image: "/src/assets/images/dal_lake_shikara_1779355600305.png",
     cols: 1
   }
 ];
