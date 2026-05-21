@@ -22,7 +22,7 @@ export const TRAVEL_PACKAGES: TravelPackage[] = [
     price: 1299,
     originalPrice: 1599,
     rating: 4.8,
-    image: "https://images.unsplash.com/photo-1566837945700-30057527ade0?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
     tags: ["Nature", "Cultural heritage", "Premium Escape"],
     highlights: ["Luxury Houseboat in Dal Lake", "Gondola ride in Gulmarg", "Pristine Pahalgam valleys"],
     description: "Unravel Jammu and Kashmir's pristine alpine beauty. Glide in a handcrafted royal houseboat, traverse vibrant saffron fields, and take a dramatic skyward Gondola ride over snow-peaked passes."
@@ -74,7 +74,7 @@ export const TRAVEL_PACKAGES: TravelPackage[] = [
     price: 1599,
     originalPrice: 1999,
     rating: 4.95,
-    image: "https://images.unsplash.com/photo-1591604466107-ec97de577aff?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&q=80&w=800",
     tags: ["Spiritual", "Elite Accommodation", "Haram View"],
     highlights: ["5-Star Haram-facing suite", "Private VIP transport guide", "Historical Ziyarat sites tour"],
     description: "An elegant, completely-focused journey of faith. Live in full spiritual view of the Kaaba, supported by seamless airport fast-tracks and state-of-the-art chauffeurs."
